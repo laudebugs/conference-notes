@@ -22,6 +22,11 @@
 - [Ankita Sood](https://twitter.com/GuacamoleAnkita) showcased how to use Auxiliary Routes in Angular.
     - [Auxiliary Routes: Ant Man of Angular](https://slides.com/ankitasood/ngconf-auxroutes)
     - [`AnkitaSood/marvel-us`](https://github.com/AnkitaSood/marvel-us) github repo app example using auxilliary routes
+- [Aaron Mitchell](https://twitter.com/AaronMitchy) from 
+[Hero Devs](https://twitter.com/herodevs) talked about the hidden costs of open source emphasizing the importance of getting an End of Life Policy for open source libraries
+    - [The Hidden Cost of Open Source - Aaron Mitchell, Vue.js Live 2023](https://www.youtube.com/watch?v=QskhAjTwJXQ&t=2s&ab_channel=JavaScriptConferencesbyGitNation)
+- [Deborah Kurata](https://twitter.com/deborahkurata) gave a talk on using Signals in Angular
+    - [Github Repo `DeborahK/Angular-Signals`](https://github.com/DeborahK/Angular-Signals) - Experimentation with Angular's signals features.
 
 ## Blog Posts
 - [Custom RxJS Operators are Standing By! Act Now!](https://perko.dev/talks/2023-06-13-custom-rxjs-operators-talk) by [Chris Perko](https://twitter.com/ChrisJPerko)
@@ -36,4 +41,9 @@
 - [Storybook](https://storybook.js.org/) from [Chromatic](https://www.chromatic.com/) ([@storybookjs](https://twitter.com/storybookjs))
 - [Webstorm IDE](https://www.jetbrains.com/help/webstorm/angular.html#angular_cli_open_existing_application) ([@WebStormIDE](https://twitter.com/WebStormIDE))
 - [Playwright](https://playwright.dev/) ([@playwrightweb](https://twitter.com/playwrightweb)) - An End to End Testing tool
+- [Analog](https://analogjs.org/) - The fullstack Angular meta-framework
 - [Spartan](https://github.com/goetzrobin/spartan) - An example application running on Supabase, Drizzle, Analog, tRPC, Tailwind, Angular, and Nx.
+- [`ngx-isr`](https://github.com/eneajaho/ngx-isr) - A library that enables Angular Universal applications to generate static pages at runtime and then update them incrementally on demand or on a schedule.
+- [Deploying an Angular App to Cloudflare](https://developers.cloudflare.com/pages/framework-guides/deploy-an-angular-site/)
+- [Passing Route Data as inputs to componenents in Angular with `withComponentInputBinding` (Angular docs)](https://angular.io/api/router/withComponentInputBinding) & [Getting route information (Angular docs on Router)](https://angular.io/guide/router#getting-route-information)
+- [Directive Composition API in Angular](https://angular.io/guide/directive-composition-api)
